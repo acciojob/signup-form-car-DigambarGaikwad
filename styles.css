@@ -2,8 +2,12 @@ body{
 	background:lightgray;
 /* 	text-align:center; */
 }
-#name , #mail ,#cars ,#age ,#dob ,#tel ,#password{
+#name , #email ,#cars ,#age ,#dob ,#tel ,#password{
 	display:block;
 	width:50%;
 /* 	text-align:right; */
+}
+button{
+	background:lightgreen;
+	border-radius:7px;
 }
