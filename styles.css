@@ -1,2 +1,9 @@
-
-/* Your CSS Code here. */
+body{
+	background:lightgray;
+/* 	text-align:center; */
+}
+#name , #mail ,#cars ,#age ,#dob ,#tel ,#password{
+	display:block;
+	width:50%;
+/* 	text-align:right; */
+}
